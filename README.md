@@ -41,3 +41,9 @@ Please, don't put any space between hosts
 ## How to avoid entering your password anytime you need to run a command in your rig
 
 Use ssh-copy-id ethos@10.1.1.101
+
+## Degflasher
+
+If you want to use degflasher for improving your hashing power in rigs with RX 570, RX 580, RX 470 or RX 480, please, install it by typing pip install https://github.com/degconnect/deg_flasher/archive/master.zip.
+
+There is more information at http://flasher.degconnect.com
