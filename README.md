@@ -1,5 +1,5 @@
 # ethos-fabric
-Fabric task to be used when mining rigs using EthosOS 
+Fabric tasks to be used when mining rigs using EthosOS
 
 ## How to start using it
 
