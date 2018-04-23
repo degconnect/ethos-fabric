@@ -87,7 +87,7 @@ def stats():
 @task
 def degflasher():
     """
-    Information about how to flash your Cards in order to improve performance at http://flasher.degconnect.com.
+    Information about how to flash your cards in order to improve performance at http://flasher.degconnect.com.
     :return:
     """
     reboot(wait=45)
@@ -96,7 +96,7 @@ def degflasher():
 
 def main():
     print("Please, read head of this file for help.")
-    print("Information about how to flash your Cards in order to improve performance at http://flasher.degconnect.com.")
+    print("Information about how to flash your cards in order to improve performance at http://flasher.degconnect.com.")
 
 
 if __name__ == '__main__':
