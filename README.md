@@ -47,3 +47,12 @@ Use ssh-copy-id ethos@10.1.1.101
 If you want to use degflasher for improving your hashing power in rigs with RX 570, RX 580, RX 470 or RX 480, please, install it by typing pip install https://github.com/degconnect/deg_flasher/archive/master.zip.
 
 There is more information at http://flasher.degconnect.com
+
+###
+
+You can support this project donating to degconnect:
+
+BTC : 18TAw57LUveA5CoqMfkWheNGXiDpqRcwmn
+ETH: 0x23efacc1634d8b12a9e5acee330b1f28b1a3068c
+LTC: Lcw9cWpW72E18m2LJRe8YG2Pk6AC2K5FN4
+ZEC: t1QZVBhVviLwr1D9qpk9U6pSmLrEFNcU1Wq
