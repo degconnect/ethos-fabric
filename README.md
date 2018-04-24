@@ -48,7 +48,7 @@ If you want to use degflasher for improving your hashing power in rigs with RX 5
 
 There is more information at http://flasher.degconnect.com
 
-###
+---
 
 You can support this project donating to degconnect:
 
